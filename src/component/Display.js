@@ -19,8 +19,8 @@ return(
             return(
                 <tr>
              <td>{s.idDrink}</td>
-             <td>{s.strDrink}</td>
-             <td>{s.strCategory}</td>
+             <td></td>
+            
              
             
                 </tr>
