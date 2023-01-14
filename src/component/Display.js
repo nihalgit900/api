@@ -19,7 +19,9 @@ return(
             return(
                 <tr>
              <td>{s.idDrink}</td>
-             <td></td>
+             <td>hello</td>
+             <td>bye</td>
+             
             
              
             
